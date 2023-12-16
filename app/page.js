@@ -8,7 +8,7 @@ export default function Home() {
       </h1>
       <p style={{ color: "white", textAlign: "center" }}>
         <Link href="/meals">Meals</Link>
-        <br> </br>
+
         <Link href="/community">Community</Link>
       </p>
     </main>
